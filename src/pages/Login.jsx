@@ -6,14 +6,14 @@ function Login() {
     return (
         <div className="login-wrapper">
             <div className="row no-gutters">
-                <div className="col-md-6">
+                <div className="col-lg-6">
                     <div className="intro-wrapper">
                         <img src={Img} alt="main" />
                         <h1>Gitman</h1>
                         <p>Find information about Github User</p>
                     </div>
                 </div>
-                <div className="col-md-6">
+                <div className="col-lg-6">
                     <div className="about-wrapper">
                         <h1>About This 
                         Project</h1>
