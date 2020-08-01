@@ -27,7 +27,7 @@ function Login() {
                             </ul>
                             <p>Framework and Api Used in this project:</p>
                         <div className="row">
-                            <div className="col-md-6">
+                            <div className="col-6">
                                 <ul className="about-list">
                                     <li>React</li>
                                     <li>React Hooks</li>
@@ -37,7 +37,7 @@ function Login() {
                                     <li>Auth0</li>
                                 </ul>
                             </div>
-                            <div className="col-md-6">
+                            <div className="col-6">
                             <ul className="about-list">
                                     <li>Context APi</li>
                                     <li>github search API</li>
