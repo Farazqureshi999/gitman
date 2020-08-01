@@ -10,7 +10,7 @@ function Counter() {
     return (
         <div className="counter-wrapper">
             <div className="row">
-                <div className="col-md-3">
+                <div className="col-lg-3 col-md-6 col-12">
                     <div className="counter-box">
                         <div>
                             <GoRepo className="icon-lg" />
@@ -21,7 +21,7 @@ function Counter() {
                         </div>
                     </div>
                 </div>
-                <div className="col-md-3">
+                <div className="col-lg-3 col-md-6 col-12">
                 <div className="counter-box">
                         <div>
                             <FaUserFriends className="icon-lg"/>
@@ -32,7 +32,7 @@ function Counter() {
                         </div>
                     </div>
                     </div>
-                    <div className="col-md-3">
+                    <div className="col-lg-3 col-md-6 col-12">
                     <div className="counter-box">
                         <div>
                             <RiUserFollowLine className="icon-lg"/>
@@ -43,7 +43,7 @@ function Counter() {
                         </div>
                     </div>
                     </div>
-                    <div className="col-md-3">
+                    <div className="col-lg-3 col-md-6 col-12">
                     <div className="counter-box">
                         <div>
                             <RiFileCodeLine className="icon-lg"/>
